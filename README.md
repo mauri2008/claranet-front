@@ -5,9 +5,9 @@
 - [TypeScript](https://www.typescriptlang.org/)
 
 ## Principais libs
-  - Vite(https://vitejs.dev/)
-  - Mui(https://mui.com/)
-  - Axios(https://axios-http.com/)
+  - [Vite](https://vitejs.dev/)
+  - [Mui](https://mui.com/)
+  - [Axios](https://axios-http.com/)
 
 ## Execução 
   ## Por NPM:
